@@ -4,6 +4,6 @@ I made this resume this semester using Figma. The shapes I built are very intric
 
 ![Austin's Resume](img/Austin_Stein_Resume.png)
 
-As an added bonus here's a portfolio piece I've been working on.
+Bonus!!! Here's a portfolio piece I've been working on!
 
 ![Eagle Connections Poster](img/Portfolio_Piece.png)
